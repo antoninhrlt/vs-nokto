@@ -1,0 +1,24 @@
+{
+    "name": "vs-nokto",
+    "publisher": "antoninhrlt",
+    "displayName": "vs-nokto",
+    "description": "Adaptation of the GTK Adapta-Nokto theme for Visual Studio Code. Inspired by One Dark pro",
+    "repository": "https://github.com/antoninhrlt/vs-nokto",
+    "icon": "themes/antoninhrlt.png",
+    "version": "1.0.3",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Vs Nokto",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Vs Nokto-color-theme.json"
+            }
+        ]
+    }
+}
