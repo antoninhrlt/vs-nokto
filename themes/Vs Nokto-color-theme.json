@@ -210,12 +210,12 @@
 		{
 			"name": "Support type",
 			"scope": [
-				"support.type"
+				"entity.name.type",
 			],
 			"settings": {
 				"foreground": "#b092ec",
 			}
-		}
+		},
 		{
 			"name": "CSS Class and Support",
 			"scope": [

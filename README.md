@@ -1,4 +1,4 @@
-# Vs Nokto **v1.0.7**
+# Vs Nokto **v1.0.8**
 Adaptation of the GTK Adapta-Nokto theme for Visual Studio Code. Inspired by One Dark pro
 
 ## Browse source code
