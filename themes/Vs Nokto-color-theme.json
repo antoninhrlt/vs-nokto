@@ -95,6 +95,7 @@
 				"storage.modifier",
 				"punctuation.separator.continuation",
 				"punctuation.terminator", // ;
+				"support.type"
 			],
 			"settings": {
 				"foreground": "#b092ec"
@@ -205,15 +206,6 @@
 			],
 			"settings": {
 				"foreground": "#e1bc81"
-			}
-		},
-		{
-			"name": "Entity Types",
-			"scope": [
-				"support.type"
-			],
-			"settings": {
-				"foreground": "#B2CCD6"
 			}
 		},
 		{
