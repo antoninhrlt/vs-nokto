@@ -95,7 +95,6 @@
 				"storage.modifier",
 				"punctuation.separator.continuation",
 				"punctuation.terminator", // ;
-				"support.type"
 			],
 			"settings": {
 				"foreground": "#b092ec"
@@ -208,6 +207,15 @@
 				"foreground": "#e1bc81"
 			}
 		},
+		{
+			"name": "Support type",
+			"scope": [
+				"support.type"
+			],
+			"settings": {
+				"foreground": "#b092ec",
+			}
+		}
 		{
 			"name": "CSS Class and Support",
 			"scope": [
