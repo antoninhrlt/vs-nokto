@@ -208,15 +208,6 @@
 			}
 		},
 		{
-			"name": "Support type",
-			"scope": [
-				"entity.name.type",
-			],
-			"settings": {
-				"foreground": "#b092ec",
-			}
-		},
-		{
 			"name": "CSS Class and Support",
 			"scope": [
 				"source.css support.type.property-name",
