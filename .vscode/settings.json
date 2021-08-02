@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "*.ju": "junon-lang",
+        "*.c": "c",
+        "*.h": "c",
+        "*.build": "cpp",
+        "*.ipp": "cpp",
+        "*.tpp": "cpp",
+        "*.html": "html",
+        "*.cppm": "cpp",
+        "*.mpp": "cpp",
+        "iostream": "cpp"
+    }
+}

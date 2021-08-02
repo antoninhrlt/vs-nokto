@@ -12,6 +12,9 @@
 		"input.background": "#222d32",
 		"input.border": "#00BCD4",
 
+        "titleBar.activeBackground": "#243035",
+        "titleBar.inactiveBackground": "#243035",
+
 		// Others
 		"textLink.foreground": "#00BCD4",
 		"focusBorder": "#00BCD4",
@@ -24,7 +27,7 @@
 		// Side bar (left bar)
 		"sideBar.background": "#243035",
 		"sideBarTitle.foreground": "#CFD8DC",
-		"sideBarSectionHeader.background": "#222d32",
+		"sideBarSectionHeader.background": "#243035",
 
 		"list.hoverForeground": "#ffffff",
 		"list.hoverBackground": "#243035",
@@ -38,7 +41,8 @@
 
 		// Tabs
 		"tab.activeBackground": "#243035",
-		"tab.activeBorder": "#00BCD4",
+		"tab.activeBorderTop": "#00BCD4",
+        "tab.border": "#243035",
 		"tab.inactiveBackground": "#222d32",
 		"editorGroupHeader.tabsBackground": "#222d32",
 
